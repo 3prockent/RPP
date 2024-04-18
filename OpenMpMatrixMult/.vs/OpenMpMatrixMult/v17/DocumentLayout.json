@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Univer\\RPP\\OpenMpMatrixMult\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADDB274-C68D-4353-B7CA-C6642BFA1CB4}|OpenMpMatrixMult\\OpenMpMatrixMult.vcxproj|E:\\Univer\\RPP\\OpenMpMatrixMult\\OpenMpMatrixMult\\OpenMpMatrixMult.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ADDB274-C68D-4353-B7CA-C6642BFA1CB4}|OpenMpMatrixMult\\OpenMpMatrixMult.vcxproj|solutionrelative:OpenMpMatrixMult\\OpenMpMatrixMult.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 243,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenMpMatrixMult.cpp",
+              "DocumentMoniker": "E:\\Univer\\RPP\\OpenMpMatrixMult\\OpenMpMatrixMult\\OpenMpMatrixMult.cpp",
+              "RelativeDocumentMoniker": "OpenMpMatrixMult\\OpenMpMatrixMult.cpp",
+              "ToolTip": "E:\\Univer\\RPP\\OpenMpMatrixMult\\OpenMpMatrixMult\\OpenMpMatrixMult.cpp",
+              "RelativeToolTip": "OpenMpMatrixMult\\OpenMpMatrixMult.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T10:17:38.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
